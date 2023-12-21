@@ -10,5 +10,6 @@ public class App {
         System.out.println("Hello Push!");
         System.out.println("Hello SSH Push!");
         System.out.println("Hello Pull!");
+        System.out.println("Hello GitStudyDemo!");
     }
 }
